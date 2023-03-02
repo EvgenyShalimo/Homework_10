@@ -11,3 +11,4 @@ try:
     zxc.fool_bred()
 except Exception:
     print('ЕТО НЕ 0!!!!!!!!!!!!!!!!!!!!!!!!!!')
+#fs
